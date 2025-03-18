@@ -1,3 +1,6 @@
+# Maneka is Live
+bit.ly/maneka-preview
+
 # Available Endpoints
 ## User Routes (/user)
 - `GET /user/`
