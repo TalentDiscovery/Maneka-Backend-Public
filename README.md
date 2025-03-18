@@ -1,5 +1,5 @@
 # Maneka is Live
-bit.ly/maneka-preview
+[Try Maneka Here](https://bit.ly/maneka-preview)
 
 # Available Endpoints
 ## User Routes (/user)
